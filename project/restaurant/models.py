@@ -1,4 +1,5 @@
 from django.db import models
+import debug_toolbar
 
 # Create your models here.
 Gender = (('Male','Male'),('Female','Female'),('Other','Other'))
